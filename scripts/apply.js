@@ -1,5 +1,5 @@
 /**
-* Assignment part 2
+*
 */
 "use strict";
 
